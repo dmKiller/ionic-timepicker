@@ -9,6 +9,8 @@ ionic serve
 
 能够查看效果
 
+或者直接打开www文件夹下的index.html查看
+
 
 # 依赖：
 stlib/timepicker/st-timepicker.js
