@@ -3,7 +3,7 @@
 
 首先需要ionic环境
 
-cd timepickPlug
+cd ionic-timepicker-master
 
 ionic serve 
 
